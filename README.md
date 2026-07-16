@@ -11,3 +11,8 @@ I believe the best way to learn programming is by building, experimenting, makin
 - Write clean and readable code<br>
 <br>
 > Every expert was once a beginner.
+## My Progress<br>
+<br>
+- Getting Started ✅<br>
+- Introduction to Programming & Python ✅<br>
+- Writing my first program ✅
