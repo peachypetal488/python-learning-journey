@@ -10,7 +10,8 @@ I believe the best way to learn programming is by building, experimenting, makin
 - Explore automation and AI<br>
 - Write clean and readable code<br>
 <br>
-> Every expert was once a beginner.
+> Every expert was once a beginner.<br>
+<br>
 ## My Progress<br>
 <br>
 - Getting Started ✅<br>
