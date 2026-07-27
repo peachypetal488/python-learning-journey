@@ -17,6 +17,6 @@ I believe the best way to learn programming is by building, experimenting, makin
 - Getting Started ✅<br>
 - Introduction to Programming & Python ✅<br>
 - Writing my first program ✅<br>
-- Continuing my python journey after finals<✅br>
+- Continuing my python journey after finals✅<br>
 - Learned using python as calculator✅<br>
 #_on my way🎀🌸
